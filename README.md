@@ -2,10 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gupta-bhanu&theme=dracula&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta-bhanu&theme=dracula&layout=compact" height="150" alt="languages graph" />
-</div>
+### 📊 Stats
+![Gupta Bhanu's Stats](https://github-readme-stats.vercel.app/api?username=gupta-bhanu&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-bhanu&layout=compact&theme=dracula)
 
 ###
 
