@@ -2,12 +2,13 @@
 
 ###
 
-### 📊 Stats
-![Gupta Bhanu's Stats](https://github-readme-stats.vercel.app/api?username=gupta-bhanu&show_icons=true&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-bhanu&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-bhanu&layout=compact&theme=dracula)
-
-###
+  <img src="https://github-profile-trophy.vercel.app/?username=gupta-bhanu&theme=dracula&no-frame=true&margin-w=4" alt="trophy" />
+</div>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhwZmxsa3dnNHYyZnM4dXJuYXN6bm5qMnJzbTFncHRmZHZ4NG9jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icIr8rk03xQI6NS67S/giphy.gif" />
 
