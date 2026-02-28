@@ -1,16 +1,11 @@
 <h2 align="left">Hi 👋! My name is Bhanu Gupta and I'm a CSE Student at SRMIST, Kattankulathur</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gupta-bhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta-bhanu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-three-sepia-13.vercel.app/api?username=gupta-bhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-three-sepia-13.vercel.app/api/top-langs?username=gupta-bhanu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
 <br/>
-
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhwZmxsa3dnNHYyZnM4dXJuYXN6bm5qMnJzbTFncHRmZHZ4NG9jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icIr8rk03xQI6NS67S/giphy.gif" />
-
 <br/>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" style="margin-right: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" style="margin-right: 4px;" />
@@ -22,9 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" style="margin-right: 4px;" />
   <img src="https://skillicons.dev/icons?i=autocad" height="35" alt="autocad logo" style="margin-right: 4px;" />
 </div>
-
 <br/>
-
 <div align="left">
   <a href="mailto:guptabhanu3636@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
@@ -33,11 +26,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
 <br/>
-
 <div style="clear: both;"></div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/gupta-bhanu/gupta-bhanu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
