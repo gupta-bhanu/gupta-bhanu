@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Bhanu+Gupta+👋;CSE+Student+at+SRMIST+Kattankulathur;Passionate+about+Programming+%26+Tech;Always+learning+something+new!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Bhanu+Gupta+%F0%9F%91%8B;CSE+Student+at+SRMIST+Kattankulathur;Passionate+about+Programming+%26+Tech;Always+learning+something+new!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,15 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gupta-bhanu&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="165" alt="streak stats" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gupta-bhanu&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=gupta-bhanu&theme=dracula&hide_border=false&border_radius=10" height="165" alt="streak stats" />
 </div>
 
 ---
@@ -53,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" style="margin-right: 8px;" />
 </div>
 
 <br/>
@@ -61,7 +54,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" style="margin-right: 8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" style="margin-right: 8px;" />
 </div>
 
 <br/>
